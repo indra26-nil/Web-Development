@@ -1,6 +1,5 @@
-console.log("Hellooo")
-let a = 60 
-let b = 80
-let c = 20
-console.log(a+b+c);
-
+console.log("Development");
+let a = [12,23]
+let b = a
+b.push(123)
+console.log(a);
